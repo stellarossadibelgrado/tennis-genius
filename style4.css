@@ -81,13 +81,11 @@ body{
   }
 }
 .paragrafo{
-  width:600px;
-  font-family:Tahoma;
+  width:100%;
+  font-family:"Century Gothic";
   font-size:11pt;
   position: relative;
-  top:10%;
-  left: 30%;
-  right:25%;
+  text-align: center;
   padding:5px;
 }
 span{
